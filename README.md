@@ -18,7 +18,7 @@ Key topics:
 - Visualization techniques (e.g., histograms, scatter plots, heatmaps)
 - Summary statistics and outlier detection
 
-Dataset: NYC Taxi Rides
+Dataset: NYC Taxi Rides (inside the notebook)
 
 ## 2. Heuristic Recommender System
 
